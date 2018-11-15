@@ -1,0 +1,50 @@
+#header {
+  background-color: yellow;
+  height: 200px;
+  text-align: center;
+  font-family: 'Roboto' ;
+  line-height: 200px;
+}
+
+#container {
+  height: 1500px;
+}
+
+#left_side {
+  width: 20%;
+  background-color: #C0C0C0;
+  float: left;
+  height: 300px;
+}
+
+#main {
+  position: relative;
+  width: 60%;
+  background-color: #547145;
+  float: left;
+  height: 1300px;
+}
+
+#right_side {
+  width: 20%;
+  background-color: #C0C0C0;
+  float: left;
+  height: 300px;
+}
+
+#fiksni {
+  position: fixed;
+  width: 100 px;
+  height: 50 px;
+  top: 270 px;
+  left: 120 px;
+}
+
+#malo_poseben {
+  position: absolute;
+  width: 130px;
+  height: 100px;
+  background-color: yellow;
+  top: 40px;
+  left: 100px;
+}
